@@ -1,0 +1,24 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+
+int a,b,c,d,e,f;
+float g;
+printf ("I am dhruv");
+printf ("\n enter the marks in maths");
+scanf("%d" ,&a);
+printf ("enter the marks in it");
+scanf("%d" ,&b);
+printf ("enter the marks in english");
+scanf("%d" ,&c);
+printf("enter the marks in science");
+scanf("%d" , &d);
+printf ("enter the marks in hindi");
+scanf ("%d" ,&e);
+f=a+b+c+d+e;
+printf ("total marks %d" ,f);
+g=f/5;
+printf ("\n percentage %f" ,g);
+getch ();
+}
