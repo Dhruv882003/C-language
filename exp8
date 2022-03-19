@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+float r,a,p;
+printf("dhruv");
+printf("\n enter the value radius of circle");
+scanf("%d",&r);
+a=3.14*r*r;
+p=2*3.14*r;
+printf("\n area of circle=%f,a");
+printf("\n perimeter of circle=%f",p);
+getch();
+}
