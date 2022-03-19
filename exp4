@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+
+printf("\n name=dhruv");
+printf("\n age=18");
+printf("\n qualification = 12th pass out");
+printf("\n school= St Marks's school");
+printf("\n college=TIAS");
+printf("\n course=BCA");
+printf("\n contactno = 1234567890");
+getch();
+}
