@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a=11,b=9,c,d;
+c=a/b;
+d=a%b;
+printf("dhruv");
+printf("\n quotient= %d",c);
+printf("\n remainder= %d",d);
+
+getch();
+
+}
